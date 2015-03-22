@@ -119,3 +119,5 @@ skin/frontend/enterprise
 skin/install/
 var/
 trip.sh
+0322/unicorn/*
+*.tgz
