@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+     <modules>
+        <YG1_Configurator>
+            <active>true</active>
+            <codePool>local</codePool>
+        </YG1_Configurator>
+     </modules>
+</config>
