@@ -8,7 +8,7 @@ for(i=1;i<a.length;i++) {
 ////////////////////////////////////////// 
 
 b = document.getElementById('add_new_option_button'); 
-for ( i = 0; i < 100; i++ ) {
+for ( i = 0; i < 바꾸세요 ; i++ ) {
 	b.click();
 } // button clicks
 
