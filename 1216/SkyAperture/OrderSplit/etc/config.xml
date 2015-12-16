@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SkyAperture_OrderSplit>
+            <version>0.1.0</version>
+        </SkyAperture_OrderSplit>
+    </modules>
+    <global>
+        <models>
+            <skyaperture_ordersplit>
+                <class>SkyAperture_OrderSplit_Model</class>
+                <resourceModel>skyaperture_ordersplit_resource</resourceModel>
+            </skyaperture_ordersplit>
+            <skyaperture_ordersplit_resource>
+                <class>SkyAperture_OrderSplit_Model_Resource</class>
+            </skyaperture_ordersplit_resource>
+        </models>
+        <blocks>
+            <skyaperture_ordersplit>
+                <class>SkyAperture_OrderSplit_Block</class>
+            </skyaperture_ordersplit>
+        </blocks>
+        <helpers>
+            <skyaperture_ordersplit>
+                <class>SkyAperture_OrderSplit_Helper</class>
+            </skyaperture_ordersplit>
+        </helpers>
+    </global>
+</config>
