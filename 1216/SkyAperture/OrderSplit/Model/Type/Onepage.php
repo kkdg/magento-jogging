@@ -6,7 +6,7 @@
  * Time: 9:17 PM
  */
 
-class Bluewise_OrderSplit_Model_Type_Onepage extends Mage_Checkout_Model_Type_Onepage
+class SkyAperture_OrderSplit_Model_Type_Onepage extends Mage_Checkout_Model_Type_Onepage
 {
     public function saveOrder() {
         $quote = $this->getQuote();
